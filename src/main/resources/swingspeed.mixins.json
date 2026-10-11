@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.swingspeed.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["LivingEntityMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
